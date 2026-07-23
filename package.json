@@ -1,0 +1,17 @@
+{
+  "name": "base44-badge-script",
+  "version": "1.0.0",
+  "description": "Standalone floating badge script for Base44 application platforms.",
+  "main": "src/base44-badge.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "base44",
+    "badge",
+    "embed",
+    "analytics"
+  ],
+  "author": "",
+  "license": "MIT"
+}
